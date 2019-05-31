@@ -1,0 +1,1 @@
+{"version":3,"file":"horizontal-bar-chart.js","sourceRoot":"","sources":["horizontal-bar-chart.ts"],"names":[],"mappings":";;AAAA,2CAAmD;AAEnD,kBAAe;IACX,SAAS,EAAE,2BAAa;IAExB,MAAM,EAAE,CAAC,oBAAM,CAAC,YAAY,CAAC;IAE7B,KAAK,EAAE,CAAC,WAAW,EAAE,SAAS,CAAC;IAE/B,OAAO;QACH,IAAI,CAAC,WAAW,CAAC,IAAI,CAAC,SAAS,EAAE,IAAI,CAAC,OAAO,CAAC,CAAC;IACnD,CAAC;CACJ,CAAA"}
